@@ -6,7 +6,7 @@
 
 ## Решение домашних заданий 
 
- - [Определяем методы, типы и уровни тестирования](https://docs.google.com/spreadsheets/d/1tpUId_oLIxLqr8RClWjS7oQFDxwiZTltgyly0J-iP00/edit?usp=sharing)
+ - [Тестирование формы регистрации](https://docs.google.com/spreadsheets/d/1VtKjl_fP-A5saNKqZGKmKut8bQF140dh2zBr0HyF0So/edit?usp=sharing)
 
 
 
